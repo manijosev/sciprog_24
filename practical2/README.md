@@ -8,8 +8,8 @@ This subdirectory contains the code in C for practical 2.
 
 ## Compile Commands
 
-* gcc -o ConversionC Conversion.c -m
-* gcc -o SumC Sum.c -m
+* gcc -o ConversionC Conversion.c -lm
+* gcc -o SumC Sum.c -lm
 
 ## Execution commands and Outputs
 
