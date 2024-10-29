@@ -1,6 +1,6 @@
 # Practical 5
 
-This subdirectory contains the code in C for practical 4.
+This subdirectory contains the code in C for practical 5.
 
 ## Files Included
 1. Fib.c  - Displays fibonacci series upto n numbers
