@@ -15,14 +15,21 @@ int main(void) {
     long long int first = 0;
     long long int second = 1;
 
+    if(n<0)
+        printf("Negative number entered,not a valid entry");
+        return 0;
+    
+
     if(n>=2){
         // print the first two Fibonacci numbers
         printf("%lld\t%lld\t", first, second);
+        return 0;
     }
 
     if(n==1){
        // edge case
        printf("%lld", first);
+        return 0;
     }
 
     for(int i = 0; i < n - 2; i++) {
