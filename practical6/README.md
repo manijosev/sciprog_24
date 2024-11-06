@@ -1,4 +1,4 @@
-# Practical 5
+# Practical 6
 
 This subdirectory contains the code in C for practical 6.
 
