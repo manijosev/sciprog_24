@@ -12,6 +12,7 @@ Student Number : 24222863
 The repository is divided into folders, a folder for each week of practical work.
 Each folder contains the C program files, the README file giving instructions on how to compile and run the program and Makefiles and sample text inputs for some programs.
 
+```
 .
 ├── Practical2
 ├── Practical3
@@ -21,5 +22,5 @@ Each folder contains the C program files, the README file giving instructions on
 ├── Practical7
 ├── Practical8
 └── Practical9
-
+```
 To view/execute work from a practical, navigate to the folder, and follow the README to compile and execute the C files.
