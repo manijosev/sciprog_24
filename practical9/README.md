@@ -1,6 +1,6 @@
 # Practical 9
 
-This subdirectory contains the code in C for practical 8.
+This subdirectory contains the code in C for practical 9.
 
 ## Files Included
 1. main.c  - C program to read a file and check if the matrix contained is a magic square
