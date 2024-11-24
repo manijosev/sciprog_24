@@ -18,7 +18,10 @@ int main(){
 
         float area=trapRule();
         printf("\nComputed Integral using trapezoidal rule :%f\n",area);
-        printf("Actual value is:%f\n",log(2.0));
+        // Compare to the exact value log(2)
+        float abs_difference = fabs(area - logf(2));
+        printf("Actual Value should be  %f\n", logf(2));
+        printf("Absolute difference between computed and actual value is %f\n", abs_difference);
         return 0;
 }
 float degToRad(float degarg){

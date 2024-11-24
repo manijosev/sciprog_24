@@ -57,7 +57,8 @@ Tan[10]=1.191754
 Tan[11]=1.428148
 
 Computed Integral using trapezoidal rule :0.619470
-Actual value is:0.693147
+Actual Value should be  0.693147
+Absolute difference between computed and actual value is 0.073677
 
 ```
 
