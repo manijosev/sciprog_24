@@ -29,7 +29,7 @@ float trapRule(){
         float area;
         int i;
         area=TanArr[0]+TanArr[N];
-        for(i=i;i<N;i++){
+        for(i=1;i<N;i++){
                 area=area+2*TanArr[i];
         }
         float mult_rad=degToRad((60.0-0.0)/(2*N));
